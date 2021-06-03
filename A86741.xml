@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Humble instructions for the setling of garrisons in Ireland, whereby that countrey may be sooner reduced, if the war be prosecuted with effect:and alsowhat manner of men may in reason be the fittest for that countrey service.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86741</idno><idno type="EEBO-CITATION">99861544</idno>
+  <idno type="VID">113681</idno>
+  <idno type="EEBO-PROQUEST">2248528415</idno>
+  
+            <idno type="STC">Wing H3420</idno>
+            <idno type="STC">Thomason E342_7</idno>
+            <idno type="STC">ESTC R200930</idno>
+            <idno type="PROQUEST">99861544</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861544e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113681)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E342[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Humble instructions for the setling of garrisons in Ireland, whereby that countrey may be sooner reduced, if the war be prosecuted with effect:and alsowhat manner of men may in reason be the fittest for that countrey service.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Field,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>June 30. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113681:1"/>
+            <p>Humble Instructions For the setling of GARRISONS IN IRELAND, WHERE BY That Countrey may be sooner Re<g ref="char:EOLhyphen"/>duced, if the War be prosecuted with effect: AND. ALSO What manner of men may in reason be the fittest for that Countrey Service.</p>
+            <p>LONDON: Printed for JOHN FIELD, June 30. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113681:2"/>
+            <pb n="3" facs="tcp:113681:2"/>
+            <head>Humble Instructions for the setling of Garrisons in <hi>Ireland,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome conceive that the old Servitors and Planters are not so fit for the Ser<g ref="char:EOLhyphen"/>vice and Reducement of <hi>Ireland,</hi> as others that pretends knowledge from their Service in other Countreys:</p>
+            <p>But as yet we hear no good reason for such their conceit.</p>
+            <p>The contrary opinion is, That such as have been Planters only being Gentlemen and rational, are skil'd to win more upon the Irish then strangers, though they have been Servitors elswhere; yet there is plenty of Officers to be found, who have been Servitors in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> as well as Planters, and have likewise served in o<g ref="char:EOLhyphen"/>ther Countreys: This considered, with their know<g ref="char:EOLhyphen"/>ledge of the Country, the custom of the people, the manner of their fights, their places of fastnesse, these in reason are the fittest for the War and reducement of that Kingdom: But however it be in the Regiments, is were to be wish'd, That such as seek places in the by Range, should be able to give an accompt of the duty thereof, for there are some places that cannot well be discharged, no not by an old Soldier, except he have some knowledge in the Mathematicks.</p>
+            <p>Then not presuming to give rules, yet to deliver an opinion may not be altogether unnecessary; And first, the Magazines for Arms, Munition, Victuals, &amp;c. in
+<pb n="4" facs="tcp:113681:3"/>places most convenient, need not much be insisted on, because all Souldiers, come from whence they will, knows, that in the first place must be cast for, where the prosecution of a War is intended; in the next place (the planting of Garrisons) a main point of that Coun<g ref="char:EOLhyphen"/>try service, perh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps will need the advice and considera<g ref="char:EOLhyphen"/>tion of ancient Servitors, and such as punctually knows the country; this must not be done promiscuously and out of order, but in an even line to answer &amp; front with each other; as for example, <hi>Ulster</hi> is now under the British Regiments, their frontier Garrisons; with <hi>Con<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght</hi> &amp; <hi>Lei<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ster,</hi> is <hi>Ballishannon, Eniskelling,</hi> &amp; <hi>Dundalk,</hi>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an even line already planted; to fill the interval in the same line, will require three more at the least, which may be at <hi>Clunish, Dromgoon,</hi> and <hi>Carrick,</hi> Mac <hi>Ross:</hi> then is the Champion part as it were, chained over be<g ref="char:EOLhyphen"/>twixt the fastnesse of <hi>Loughorn</hi> and <hi>Dundalk,</hi> and so from Sea to Sea; they are always ready to make incur<g ref="char:EOLhyphen"/>sions upon the Enemy; and if they be at any time di<g ref="char:EOLhyphen"/>stressed, <hi>Ulster</hi> forces are at their backs ready to relieve them. <hi>Object.</hi> There are no strong Towns where you would place these new Garrisons: Answ. There is in each an old Irish Town which may be intrencht, Forts and Sconces built till wall'd Towns may be accom<g ref="char:EOLhyphen"/>plished, which hath been ever a main defect within Land: Some advise the Garrisons from <hi>Belturbert</hi> to <hi>Drogdagh,</hi> &amp; so to take in more ground, but that line is oblique, and not direct, will ask more charge and men, too neer, or perhaps amongst the Enemy. That and more may shortly be gained when the first proposed is done, at the easier charge aforesaid; however, it is left to judgement: This if they please may be their course in the other Provinces, to secure what they have al<g ref="char:EOLhyphen"/>ready
+<pb n="5" facs="tcp:113681:3"/>by lincking of Forts and Garrisons, from one place of fastnesse to another: then if the new supplies added to those already there, will make them Masters of the field, as undoubtedly they may, if they be but one to three in number, the Irish will in short time be coop'd up, creep into Woods and Bogs, according to their old manner; then if you cannot reach their backs, you must fight with their bellies, by preying their countreys, and cutting down the green corn; if this course may be prosecuted with effect, those that will not dye in Battel, must starve, and eat one another, as they formerly have done: For president you have the L: <hi>Mountjoy,</hi> that quell'd <hi>Tyrones</hi> Rebellion, and reduc'd that Countrey to a greater subjection then ever it was since any of our British Kings had Title there; al<g ref="char:EOLhyphen"/>though there were great Souldiers before him, for the Wars in <hi>Britainy, Spain;</hi> the <hi>Low Countries,</hi> &amp;c. as the world had any in their time; yet till he and his councel found the way before mentioned, neither he nor any before him did the work: For instance, perhaps omit<g ref="char:EOLhyphen"/>ing some, these new Garrisons, he planted in <hi>Ulster,</hi> where was then the chief seat of the War, <hi>viz. Ba<g ref="char:EOLhyphen"/>lishannon, Loughfoil, Charlemount,</hi> alluding to his name <hi>Mountjoy,</hi> after his Barrony <hi>Mountnorris,</hi> in honor of one of his Predecessors, and lastly <hi>Monaghan.</hi> A man might here enter into a large field, and talk of Levies of Men, Munition, Treasure, Victuals, &amp;c but it is not mannerly for by standers to speak too much amongst Gamesters, yet certainly there hath been no right course taken since this last Rebellion, though many worthy Commanders, and <hi>Low Countrey</hi> Officers were to be seen there, and as forward Souldiers as could be wish'd for; so was there many others that never had
+<pb n="6" facs="tcp:113681:4"/>been Souldiers, or ever trail'd a Pike, preferred to pla<g ref="char:EOLhyphen"/>ces of great charge in the Army, and it is supposed far beyond their capacities; now whether it were for want of knowledge of that Countrey service, or whether he that commanded in chief was not willing to pro<g ref="char:EOLhyphen"/>secute the right way, is yet little other then a mystery, 'tis known he had able Councel for his Closet, and such as he perhaps took to be cordial, but others knew them to be Irish affected: Then as matters grew high in <hi>England,</hi> 'tis more then probable such Instructions came from thence, as gave impediment to that prose<g ref="char:EOLhyphen"/>cution, which ought to have been: But to leave these mysteries, it is easie to discern what was irregular, what time, Munition and men, was lost in pelting at the Piles and Castles, which may be the Service of o<g ref="char:EOLhyphen"/>ther Countreys, but not there, if you mean to finish the work: Those may be made to fall another way, or the men to starve; what Custodiums the Captain got? especially some that never had been Souldiers, and kept their men about them for their particular profit, is enough to let you see the general service neglected. Lastly, to see the wilde ones at liberty, and the indu<g ref="char:EOLhyphen"/>strious Churl rooted out, meaning chiefly those of the Pale, cannot but amaze a good minde, an old race of English people, they are laborious, early Husbands, true of their word, and good Paymasters, somewhat deceitful to strangers at their first coming to Inhabite, which is common in other Countreys, but else pa<g ref="char:EOLhyphen"/>tient, and easie to be governed as any people under the Sun, till the time of intollerable oppression, counte<g ref="char:EOLhyphen"/>nance or subornation, through the fractions and di<g ref="char:EOLhyphen"/>stempers of <hi>England.</hi> To conclude, when all is re<g ref="char:EOLhyphen"/>duc'd, you must banish the Priests and Friers, with the
+<pb n="7" facs="tcp:113681:4"/>chief of the Septs, even to any near degree, and then govern in some short Martial way, by men of Honor and desert, till education have made the rest malliable, and fit to receive our English Laws.</p>
+            <p>This is only a glimpse, yet take it out of personal Experience; wise men can tell how to give correcti<g ref="char:EOLhyphen"/>on or addition, as in their better judgements shall be meet.</p>
+            <p>
+               <hi>Observ.</hi> Some men of quality that had been Com<g ref="char:EOLhyphen"/>manders in Forraign parts, came also great Officers into this last service in <hi>Ireland,</hi> but went back with their Families, not only without any profit gain'd, but with the expence of what they brought, yet no ways rio<g ref="char:EOLhyphen"/>tous; some others were not so nice to fill their pockets, especially such as never before were Souldiers there or elswhere, found the way by Pillage and Plunder to make up their Markets: But how many good house<g ref="char:EOLhyphen"/>keepers of honest industry and integrity, are now at a piece of bread?</p>
+            <p>Note, there was divers of these Copies given in writing before this last Defeat in the North of <hi>Ireland:</hi> And if the planting of Garrisons formerly named, had been observed in time, when the British were so long Masters of that Province, this great mischief had happily been prevented. It hath ever been held the best policy to keep the Frontiers as strong as may be, to resist the bordering Enemy, and rather to fight in the Enemies quarters then their own. And if a com<g ref="char:EOLhyphen"/>petent part of the Forces we had in the utmost cor<g ref="char:EOLhyphen"/>ners of the North had been drawn up, and placed in Garrison in the Frontier, as is formerly advised, all the Province behinde them had been the safer for their Plows and Cattel; for that must be cast for un<g ref="char:EOLhyphen"/>der
+<pb n="8" facs="tcp:113681:5"/>the protection of the Sword in that Count<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y Service, as matters now stand. The Woods and pla<g ref="char:EOLhyphen"/>ces of fastnesse (where the Defeat was given) should have been our own Retreat for our men and Cattel upon all disasters from the Frontier, and not l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft for the Rebels to skulk in, or to place their Ambushes, as now they did, to impeach our Egresse. All this should have been thought of, and it had been easie when we were so long Masters of that Province. Now if this Advertisement had come since the last Defeat, it had not been worth the looking on; but it is known there were divers written Copies given long before. And so hath there many others of the like natu<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which hath been as little regarded: But what fol<g ref="char:EOLunhyphen"/>lows, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
